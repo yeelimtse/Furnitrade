@@ -66,4 +66,4 @@ password: Wenlin1997@
 ```
 
 ### Video Demo
-Youtube Link: https://www.youtube.com/watch?v=7hTTqTOZBfY&t=76s
+[Youtube Link](https://www.youtube.com/watch?v=7hTTqTOZBfY&t=76s)
